@@ -5,25 +5,25 @@ bio: My research interests include statistics, alternative learning, spatiotempo
 education:
   courses:
   - course: PhD in Statistics
-    institution: University of Missouri
-    year: Expected 2020
+    institution: [University of Missouri](https://missouri.edu/)
+    year: 2020
   - course: MA in Statistics
-    institution: University of Missouri
+    institution: [University of Missouri](https://missouri.edu/)
     year: 2018
   - course: BS in Statistics and Wildlife Biology
-    institution: Colorado State University
+    institution: [Colorado State University](https://www.colostate.edu/)
     year: 2014
 email: ""
 interests:
 - Animal Behavior
 - Deep Learning
 - Reinforcement Learning
-- Spatiotemporal statistics
+- Spatio-temporal statistics
 name: Toryn Schafer
 organizations:
-- name: University of Missouri
+- name: Cornell University
   url: ""
-role: Graduate Student
+role: Postdoctoral Associate
 social:
 - icon: envelope
   icon_pack: fas
@@ -43,6 +43,6 @@ user_groups:
 - Visitors
 ---
 
-I am a doctoral candidate at the University of Missouri. My research interests include statistics, alternative learning, spatiotemporal modeling, animal behavior, and ecological applications. 
+I am a postdoctoral associate in the Department of Statistics and Data Science at Cornell University. I completed my PhD in Statistics at the University of Missouri (2020). I have a BS in Wildlife Biology and Statistics from Colorado State University (2014). My research interests include statistics, alternative learning, spatiotemporal modeling, animal behavior, and ecological applications. 
 
 
