@@ -5,13 +5,13 @@ bio: My research interests include statistics, alternative learning, spatiotempo
 education:
   courses:
   - course: PhD in Statistics
-    institution: [University of Missouri](https://missouri.edu/)
+    institution: University of Missouri
     year: 2020
   - course: MA in Statistics
-    institution: [University of Missouri](https://missouri.edu/)
+    institution: University of Missouri
     year: 2018
   - course: BS in Statistics and Wildlife Biology
-    institution: [Colorado State University](https://www.colostate.edu/)
+    institution: Colorado State University
     year: 2014
 email: ""
 interests:
